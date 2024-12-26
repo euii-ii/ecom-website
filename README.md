@@ -26,6 +26,6 @@ JavaScript
 🚀 Getting Started
 
 Clone the repository:
-
+https://github.com/E-beep-web/AD.git
 
 Open index.html in your preferred browser
