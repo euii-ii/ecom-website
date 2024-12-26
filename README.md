@@ -21,3 +21,11 @@ Checkout process simulation
 HTML5
 CSS3 (with Flexbox and Grid)
 JavaScript 
+
+
+🚀 Getting Started
+
+Clone the repository:
+
+
+Open index.html in your preferred browser
