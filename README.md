@@ -29,3 +29,8 @@ Clone the repository:
 https://github.com/E-beep-web/AD.git
 
 Open index.html in your preferred browser
+
+
+📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details
