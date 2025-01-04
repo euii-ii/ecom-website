@@ -1,4 +1,4 @@
-# AD E-commerce Website
+# E-commerce Website
 
 A responsive e-commerce website built with HTML, CSS, and JavaScript that provides essential online shopping features and a clean user interface.
 
